@@ -1,0 +1,4 @@
+﻿  ConsoleApplication4.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  ConsoleApplication4.vcxproj -> E:\Progra I\ConsoleApplication4\Debug\ConsoleApplication4.exe
+  ConsoleApplication4.vcxproj -> E:\Progra I\ConsoleApplication4\Debug\ConsoleApplication4.pdb (Partial PDB)
