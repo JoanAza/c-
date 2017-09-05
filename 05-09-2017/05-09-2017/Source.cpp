@@ -11,11 +11,15 @@ int main(){
 	numero = new int;
 	cout << "Ingrese un numero : ";
 	cin >> *numero;
+	if (*numero == 0)
+	{
+		cout << "EL NUMERO ES NEUTRO";
+	}
 	if (*numero > 0)
 	{
 		cout << "EL NUMERO ES POSITIVO";
 	}
-	else
+	if (*numero < 0)
 	{
 		cout << "EL NUMERO ES NEGATIVO";
 	}
